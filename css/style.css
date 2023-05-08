@@ -5,3 +5,11 @@
     margin: 0;
     padding: 0;
 }
+
+
+#app{
+    display: flex;
+    flex-direction: column;    
+    width: 800px;
+    margin: 0 auto;
+}
